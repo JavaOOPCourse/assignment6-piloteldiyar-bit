@@ -13,12 +13,12 @@ public class Main {
         // ====================== TASK 1 ======================
         // TODO: Добавь минимум 5 студентов (ключ = ID)
         // Сделай минимум два студента с одинаковым GPA (для Task 3)
-        students.put("101", new Student("Aisuluu", 3.5, 18));
-        students.put("102", new Student("Bek", 3.8, 19));
-        students.put("103", new Student("Chyngyz", 3.5, 20)); // Same GPA as Aisuluu
-        students.put("104", new Student("Dastan", 4.0, 19));
-        students.put("105", new Student("Eliza", 3.2, 18));
-        students.put("106", new Student("Farida", 3.8, 21)); // Same GPA as Bek
+        students.put("101", new Student("Eldiyar", 3.5, 18));
+        students.put("102", new Student("Maloy", 3.8, 19));
+        students.put("103", new Student("Danya", 3.5, 20)); // Same GPA as Aisuluu
+        students.put("104", new Student("KICKBUTTOWSKY", 4.0, 19));
+        students.put("105", new Student("ELZA", 3.2, 18));
+        students.put("106", new Student("Spider man", 3.8, 21)); // Same GPA as Bek
 
         // TODO: Напечатай всех студентов (ID + объект)
         System.out.println("=== All Students ===");
